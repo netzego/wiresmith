@@ -24,7 +24,7 @@ can also clean up dead peers if desired.
 
 ## How to use
 
-You need to at least provide the internal netork to use and the local node's endpoint. The endpoint
+You need to at least provide the internal network to use and the local node's endpoint. The endpoint
 can either be an interface or a specific local interface address. For instance, one of the simplest
 invocations would be:
 
